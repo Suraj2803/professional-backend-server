@@ -152,6 +152,10 @@ To run tests, use the following command:
 npm test
 ```
 
+### Dotenv experimental command
+    // "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
+
+
 Ensure you have set up your testing environment correctly in the `.env.test` file.
 
 ## License
